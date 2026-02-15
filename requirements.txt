@@ -1,0 +1,12 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+fastapi
+uvicorn
+pillow
+python-multipart
+opencv-python
+realesrgan
+controlnet_aux
